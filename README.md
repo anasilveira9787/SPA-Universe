@@ -1,6 +1,5 @@
 # SPA Universe 🌌
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6d399b44-c8fe-4814-9994-9148255f5906/Untitled.png)
 
 SPA Universe is a single page application that has been created using HTML, CSS, and JavaScript. The primary purpose of the application is to provide a platform for studying how single page applications work.
 
